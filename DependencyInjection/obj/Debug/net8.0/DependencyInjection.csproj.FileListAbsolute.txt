@@ -1,0 +1,4 @@
+C:\Users\sunda\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunda\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\sunda\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\sunda\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net8.0\DependencyInjection.csproj.CoreCompileInputs.cache
