@@ -23,7 +23,7 @@ namespace DependencyInjection.Models
         {
             _home = home;
             
-            _hospital = new Hospital();
+            //_hospital = new Hospital();
 
         }
         public void TakeRefuge()
