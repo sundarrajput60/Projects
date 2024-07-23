@@ -1,0 +1,74 @@
+﻿{
+  [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "position": "Software Engineer",
+      "department": "IT",
+      "salary": 75000
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "position": "Project Manager",
+      "department": "Operations",
+      "salary": 85000
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "position": "UX Designer",
+      "department": "Design",
+      "salary": 70000
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "position": "Data Analyst",
+      "department": "Marketing",
+      "salary": 72000
+    },
+    {
+      "id": 5,
+      "name": "Carol White",
+      "position": "HR Manager",
+      "department": "HR",
+      "salary": 68000
+    },
+    {
+      "id": 6,
+      "name": "David Green",
+      "position": "System Administrator",
+      "department": "IT",
+      "salary": 69000
+    },
+    {
+      "id": 7,
+      "name": "Eve Black",
+      "position": "Content Writer",
+      "department": "Marketing",
+      "salary": 62000
+    },
+    {
+      "id": 8,
+      "name": "Frank Lee",
+      "position": "Accountant",
+      "department": "Finance",
+      "salary": 73000
+    },
+    {
+      "id": 9,
+      "name": "Grace Kim",
+      "position": "Product Manager",
+      "department": "Product",
+      "salary": 90000
+    },
+    {
+      "id": 10,
+      "name": "Henry Jones",
+      "position": "Business Analyst",
+      "department": "Operations",
+      "salary": 76000
+    }
+  ]
+}
